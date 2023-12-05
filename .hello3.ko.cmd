@@ -1,1 +1,0 @@
-cmd_/home/o-chyzhov-io14/hello3/hello3.ko := ccache arm-linux-gnueabihf-ld -r  -EL -z noexecstack  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/o-chyzhov-io14/hello3/hello3.ko /home/o-chyzhov-io14/hello3/hello3.o /home/o-chyzhov-io14/hello3/hello3.mod.o ;  true
